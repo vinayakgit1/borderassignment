@@ -1,0 +1,19 @@
+table{
+    border-style: solid;
+    border: 6px 12px 20px 40px;
+    border-radius: 10px 20px;
+    color: blue;
+    background-color: yellow;
+    border-color: orange green blue grey;
+    border-collapse: collapse;
+}
+h1{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-left: 150px;
+}
+ul{
+    visibility: hidden;
+}
